@@ -10,7 +10,7 @@ cd picom
 # Build as stated in the picom README
 meson --buildtype=release . build && \
     ninja -C build && \
-    echo 'Now run "sudo ninja -C build install" to finish the installation.' && exit 0
+    sudo ninja -C build install
 
 echo "Somewhing went wrong..."
 exit 1
