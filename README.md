@@ -2,7 +2,12 @@
 
 **WARNING**: THIS REQUIRES *SUDO PRIVLEGES* PLEASE REVIEW BEFORE RUNNING
 
-Here is the command:
+### Install Only Dependencies
 ```bash
 curl "https://raw.githubusercontent.com/BalderHolst/fedora-jonaburg-picom/main/install_dependencies.sh" | bash
+```
+
+### Install 
+```bash
+curl "https://raw.githubusercontent.com/BalderHolst/fedora-jonaburg-picom/main/install.sh" | bash
 ```
