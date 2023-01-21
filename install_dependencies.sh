@@ -2,4 +2,4 @@
 
 packages="$(curl "https://raw.githubusercontent.com/BalderHolst/fedora-jonaburg-picom/main/packages.txt")"
 
-sudo dnf install ("$packages")
+sudo dnf install $packages
