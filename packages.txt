@@ -13,3 +13,4 @@ libconfig-devel
 pcre-devel
 glibc-devel
 dbus-devel
+uthash-devel
