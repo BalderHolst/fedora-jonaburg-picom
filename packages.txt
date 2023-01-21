@@ -1,0 +1,15 @@
+ninja-build
+meson
+gcc
+cmake
+libev-devel
+libX11-devel
+libxcb-devel
+xcb-util-renderutil-devel
+xcb-util-image-devel
+libXext-devel
+pixman-devel
+libconfig-devel
+pcre-devel
+glibc-devel
+dbus-devel
