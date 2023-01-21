@@ -11,6 +11,6 @@ libXext-devel
 pixman-devel
 libconfig-devel
 pcre-devel
-glibc-devel
 dbus-devel
 uthash-devel
+mesa-libGL-devel
